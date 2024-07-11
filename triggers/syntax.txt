@@ -1,0 +1,13 @@
+create or replace trigger name
+
+before | after
+
+insert | update | delete
+
+of column
+
+on table name
+
+for each row | column
+
+body
