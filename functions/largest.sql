@@ -1,5 +1,7 @@
 create or replace function biggest(a1 in number, b1 in number)
-return number as c1 number;
+return number 
+as 
+c1 number;
 
 begin
 if(a1>b1)
